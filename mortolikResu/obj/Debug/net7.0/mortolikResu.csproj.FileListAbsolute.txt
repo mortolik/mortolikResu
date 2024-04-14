@@ -1,0 +1,8 @@
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.AssemblyInfo.cs
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.RazorAssemblyInfo.cache
+C:\Users\User\RiderProjects\mortolikResu\mortolikResu\obj\Debug\net7.0\mortolikResu.RazorAssemblyInfo.cs
