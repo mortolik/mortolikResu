@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<mortolikResu.BL.Auth.IAuthBL, mortolikResu.BL.Auth.AuthBL>();
+builder.Services.AddSingleton<mortolikResu.DAL.Auth.IAuthDal, mortolikResu.DAL.Auth.AuthDal>();
 
 var app = builder.Build();
 
